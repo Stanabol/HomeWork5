@@ -1,0 +1,23 @@
+body {
+    background-color: #1D1B1C;
+}
+table {
+    border-spacing: 20px;
+    padding: 200px;
+    text-align: center;
+}
+
+tr:nth-last-child(2){
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+tr {
+    color: #FFFFFF;
+}
+
+img {
+    background-color:#FFAD00 ;
+    padding: 20px;
+    border-radius: 20px 0 20px 0;
+}
