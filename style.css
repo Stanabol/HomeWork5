@@ -18,10 +18,12 @@ tr {
     
 }
 
-img {
-    background-color:#FFAD00 ;
-    padding: 20px;
+p {
+    background:  #FFAD00 ;
     border-radius: 20px 0 20px 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0 auto;
     width: 75px;
-    height: 75px;
+    /* height: 100px; */
 }
