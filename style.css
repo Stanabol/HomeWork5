@@ -2,7 +2,7 @@ body {
     background-color: #1D1B1C;
     
 }
-table {
+.content {
     border-spacing: 20px;
     padding: 200px;
     text-align: center;
@@ -18,7 +18,7 @@ tr {
     
 }
 
-p {
+.content p {
     background:  #FFAD00 ;
     border-radius: 20px 0 20px 0;
     padding-top: 20px;
